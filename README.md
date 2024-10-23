@@ -230,4 +230,6 @@ Copy code
 git remote set-url origin git@github.com:your_username/tesseract-training.git
 git push -u origin main
 联系方式
-如有任何问题或需要支持，请随时在 GitHub 仓库 上提交 issue，或通过 zhaoyangpp@gmail.com 联系我们。
+如有任何问题或需要支持，请随时在 GitHub 仓库 上提交 issue，或通过 your.email@example.com 联系我们。
+
+
